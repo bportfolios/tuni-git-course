@@ -1,1 +1,1 @@
-print("Hello world! from bipika local")
+print("Hello world!")
